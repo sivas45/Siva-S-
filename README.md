@@ -28,7 +28,7 @@ Git | GitHub | VS Code
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: www.linkedin.com/in/siva-s45 
+- 🔗 LinkedIn:https://www.linkedin.com/in/siva-s45
 - 📧 Email: sivasankaran1704@gmail.com 
 
 ---
